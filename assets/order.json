@@ -1,14 +1,56 @@
-[   
+[
     {"Item": "A1000",
-    "ItemName": "Iphone 15",   
-    "Price": 1200,
-    "Currency":"USD",
-    "Quantity":1
+     "ItemName": "iPhone 15",
+     "Price": 1200,
+     "Currency": "USD",
+     "Quantity": 1
     },
     {"Item": "A1001",
-    "ItemName": "Iphone 16",
-    "Price":1500,
-    "Currency": "USD",
-    "Quantity":1
+     "ItemName": "iPhone 15",
+     "Price": 1200,
+     "Currency": "USD",
+     "Quantity": 1
+    },
+    {"Item": "A1002",
+     "ItemName": "iPhone 15",
+     "Price": 1200,
+     "Currency": "USD",
+     "Quantity": 1
+    },
+    {"Item": "A1003",
+     "ItemName": "iPhone 15",
+     "Price": 1200,
+     "Currency": "USD",
+     "Quantity": 1
+    },
+    {"Item": "A1004",
+     "ItemName": "iPhone 15",
+     "Price": 1200,
+     "Currency": "USD",
+     "Quantity": 1
+    },
+    {"Item": "A1005",
+     "ItemName": "iPhone 15",
+     "Price": 1200,
+     "Currency": "USD",
+     "Quantity": 1
+    },
+    {"Item": "A1006",
+     "ItemName": "iPhone 15",
+     "Price": 1200,
+     "Currency": "USD",
+     "Quantity": 1
+    },
+    {"Item": "A1007",
+     "ItemName": "iPhone 15",
+     "Price": 1200,
+     "Currency": "USD",
+     "Quantity": 1
+    },
+    {"Item": "A1008",
+     "ItemName": "iPhone 15",
+     "Price": 1200,
+     "Currency": "USD",
+     "Quantity": 1
     }
 ]
